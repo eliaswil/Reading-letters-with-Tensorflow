@@ -13,11 +13,11 @@ import cv2
 
 # import os
 
-path_train_labels = 'gzip/emnist-letters-train-labels-idx1-ubyte'
-path_train_images = 'gzip/emnist-letters-train-images-idx3-ubyte'
+path_train_labels = '../gzip/emnist-letters-train-labels-idx1-ubyte'
+path_train_images = '../gzip/emnist-letters-train-images-idx3-ubyte'
 
-path_test_labels = 'gzip/emnist-letters-test-labels-idx1-ubyte'
-path_test_images = 'gzip/emnist-letters-test-images-idx3-ubyte'
+path_test_labels = '../gzip/emnist-letters-test-labels-idx1-ubyte'
+path_test_images = '../gzip/emnist-letters-test-images-idx3-ubyte'
 
 header_labels = 8
 header_images = 16
